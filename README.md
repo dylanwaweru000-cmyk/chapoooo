@@ -4,7 +4,8 @@ A simple website that tells people about me and my work.
 
 ## Live website
 
-[Open my portfolio](https://dylanwaweru000-cmyk.github.io/dylanwaweru-portfolio/)
+[Open my portfolio]https://dylanwaweru000-cmyk.github.io/chapoooo/
+
 
 The site is not online yet. This link will work after I publish it with GitHub Pages.
 
